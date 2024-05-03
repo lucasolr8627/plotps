@@ -38,4 +38,5 @@ function plotps(X, fa)
     xlabel('frequência (Hz)');
     ylabel('potência (dB)');
     title('Espectro de Potência');
+    grid;
 end
